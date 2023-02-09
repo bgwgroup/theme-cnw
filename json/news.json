@@ -1,13 +1,13 @@
 [
     {
         "category": "category-promotion",
-        "date": "10 Jan 2023",
+        "date": "6 Feb 2023",
         "video": "false",
-        "title": "Colouring Competition",
-        "text": "Get creative and WIN prizes.",
-        "image": "https://i.ibb.co/J7tXTJF/colouring-comp.jpg",
-        "link": "#",
-        "target": "_blank"
+        "title": "Hager's, Work Hard, Play Hard!",
+        "text": "You know the drill 🚨 Hager's, Work Hard, Play Hard is back and better than ever in 2023👈",
+        "image": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-6/328318026_1219505348659570_3916137518503370364_n.png?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=HU8R-_ljYTAAX8U6_1d&_nc_ht=scontent-syd2-1.xx&oh=00_AfAuc2o7TIChsSKXKFyVUXLwwqAupxFrn-Sb82Yv3HLltg&oe=63E87402",
+        "link": "https://shop.cnw.com.au/hager-work-hard-play-hard?utm_content=buffer3f32c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer",
+        "target": "_self"
     },
     {
         "category": "category-news",
