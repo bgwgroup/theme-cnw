@@ -190,5 +190,61 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/pierlite-cover.png",
     "rangeUrl": "/search/?text=Pierlite",
     "website": "https://pierlite.com.au/"
+  },
+  {
+    "title": "PSA",
+    "description": "PSA Products is a family owned Australian company that began our story in 1985, dedicating ourselves to protecting and saving lives by supplying innovative fire prevention and security products.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/psa.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/psa-cover.jpg",
+    "rangeUrl": "/search/?text=PSA",
+    "website": "https://www.psaproducts.com.au/"
+  },
+  {
+    "title": "Redback Ladders",
+    "description": "Redback Ladders manufacture quality fibreglass ladders at a competitive price.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/redback-ladders.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/redback-ladders-cover.jpg",
+    "rangeUrl": "/search/?text=Redback+Ladders",
+    "website": "http://www.redbackladders.com.au/"
+  },
+  {
+    "title": "Schneider Electric",
+    "description": "Schneider's purpose is to empower all to make the most of our energy and resources, bridging progress and sustainability for all. At Schneider, we call this Life Is On.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/schneider-electric.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/schneider-electric-cover.jpg",
+    "rangeUrl": "/search/?text=Schneider+Electric",
+    "website": "https://www.se.com/au/en/"
+  },
+  {
+    "title": "Sheffield",
+    "description": "Sheffield Group provides complete solutions in cutting tools through its extensive range of knives and blades, and power tool accessories.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/sheffield.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/sheffield-cover.jpg",
+    "rangeUrl": "/search/?text=Sheffield",
+    "website": "https://www.sheffield.com.au/"
+  },
+  {
+    "title": "SAL",
+    "description": "SAL’s product offer is an expansive array of LED Lamps, Luminaires and Smart Home Lighting controls.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/sal.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/sal-cover.jpg",
+    "rangeUrl": "/search/?text=SAL",
+    "website": "https://www.sal.net.au/"
+  },
+  {
+    "title": "Thorn",
+    "description": "Thorn manufactures and supplies dependable, efficient, high-quality lighting.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/thorn.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/thorn-cover.jpg",
+    "rangeUrl": "/search/?text=Thorn",
+    "website": "https://www.thornlighting.com.au/en-au"
+  },
+  {
+    "title": "Ventair",
+    "description": "Ventair Pty Ltd commenced operation in 2006, Ventair is a leading specialist supplier of high quality air movement products in the Australian market.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/ventair.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/ventair-cover.jpg",
+    "rangeUrl": "/search/?text=Ventair",
+    "website": "https://ventair.com.au/"
   }
 ]
