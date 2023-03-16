@@ -78,5 +78,29 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/fantech-cover.jpg",
     "rangeUrl": "/search/?text=Fantech",
     "website": "https://www.fantech.com.au/"
+  },
+  {
+    "title": "Hager",
+    "description": "Shaping the electrical world of the future is already proving to be a collective effort. To succeed in creating it means building it not just from an internal R&D perspective, but by including the thoughts and ideas of our partners, customers and colleagues.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/hager.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/hager-cover.jpg",
+    "rangeUrl": "/search/?text=Hager",
+    "website": "https://hager.com/au"
+  },
+  {
+    "title": "Haneco",
+    "description": "Haneco Lighting is an Australian specialist LED lighting manufacturer based in Adelaide that supplies to electrical wholesalers Australia-wide.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/haneco.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/haneco-cover.jpg",
+    "rangeUrl": "/search/?text=Haneco",
+    "website": "https://haneco.com.au/"
+  },
+  {
+    "title": "HellermannTyton ",
+    "description": "HellermannTyton is one of the leading suppliers of products for fastening, fixing, identifying and protecting cables and their connecting components.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/hellermanntyton.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/hellermanntyton-cover.jpg",
+    "rangeUrl": "/search/?text=HellermannTyton ",
+    "website": "https://www.hellermanntyton.com/"
   }
 ]
