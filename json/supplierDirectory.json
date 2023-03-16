@@ -38,5 +38,21 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/phoenix-metalform-cover.jpg",
     "rangeUrl": "/search/?text=Phoenix+Metalform",
     "website": "https://www.phoenixmetal.com.au/"
+  },
+  {
+    "title": "Cabac",
+    "description": "CABAC are an Australian leader in electrical products. We specialise in creating end-to-end solutions for the needs of any project across all sectors of the electrical industry.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/cabac.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/cabac-cover.jpg",
+    "rangeUrl": "/search/?text=Cabac",
+    "website": "https://www.cabac.com.au/"
+  },
+  {
+    "title": "Clevertronics",
+    "description": "Clevertronics has extensive experience across many different industries and applications. We specialise in emergency lighting to ensure the best solution is selected.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/clevertronics.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/clevertronics-cover.jpg",
+    "rangeUrl": "/search/?text=Clevertronics",
+    "website": "https://clevertronics.com.au/"
   }
 ]
