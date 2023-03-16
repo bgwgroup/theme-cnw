@@ -145,10 +145,50 @@
   },
   {
     "title": "Macsim",
-    "description": " Australia's leading Manufacturer & Supplier of Anchoring, Fasteners & Hardware Products in Australasia.",
+    "description": "Australia's leading Manufacturer & Supplier of Anchoring, Fasteners & Hardware Products in Australasia.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/macsim.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/macsim-cover.jpg",
     "rangeUrl": "/search/?text=Macsim",
     "website": "https://www.macsim.com.au/"
+  },
+  {
+    "title": "Madison",
+    "description": "Madison Express is a quality cable and connectivity designer, manufacturer, importer and distributor servicing Australia and New Zealand.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/madison.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/madison-cover.jpg",
+    "rangeUrl": "/search/?text=Madison",
+    "website": "https://madisonexpress.com.au/"
+  },
+  {
+    "title": "Matchmaster",
+    "description": "Matchmaster is the premium supplier and manufacturer of digital TV antenna systems for domestic and digital TV commercial applications.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/matchmaster.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/matchmaster-cover.jpg",
+    "rangeUrl": "/search/?text=Matchmaster",
+    "website": "https://www.matchmaster.com.au/"
+  },
+  {
+    "title": "MMS Safety",
+    "description": "With a history that spans three decades, MMS Safety has distinguished itself by its unique business approach based on quality products.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/mms-safety.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/mms-safety-cover.jpg",
+    "rangeUrl": "/search/?text=MMS+Safety",
+    "website": "https://mmssafety.com.au/"
+  },
+  {
+    "title": "NHP",
+    "description": "With over 50 years of electrical and engineering industry excellence and more than 20 branches across Australia and New Zealand, at NHP it is our local people and footprint that helps us understand your specific project needs, no matter how big or small.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/nhp.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/nhp-cover.jpg",
+    "rangeUrl": "/search/?text=NHP",
+    "website": "https://www.nhp.com.au/"
+  },
+  {
+    "title": "Pierlite",
+    "description": "Australia and New Zealand’s leading lighting solutions provider for commercial, industrial and healthcare applications.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/pierlite.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/pierlite-cover.png",
+    "rangeUrl": "/search/?text=Pierlite",
+    "website": "https://pierlite.com.au/"
   }
 ]
