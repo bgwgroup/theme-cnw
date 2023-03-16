@@ -22,5 +22,21 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/brooks-cover.jpg",
     "rangeUrl": "/search/?text=Brooks",
     "website": "https://www.brooks.com.au/"
+  },
+  {
+    "title": "Burndy",
+    "description": "Pioneers of the original Laddertray systems, Burndy are considered by many to have established the benchmark for quality and performance in commercial construction applications.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/burndy.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/burndy-cover.jpg",
+    "rangeUrl": "/search/?text=Burndy",
+    "website": "https://www.burndycss.com.au/"
+  },
+  {
+    "title": "Phoenix Metalform",
+    "description": "At Phoenix Metalform, we’re proud to be one of Australia’s leading providers of sheet metal building products, and sheet metal fabrications in Perth and Western Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/phoneix-metalform.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/phoenix-metalform-cover.jpg",
+    "rangeUrl": "/search/?text=Phoenix+Metalform",
+    "website": "https://www.phoenixmetal.com.au/"
   }
 ]
