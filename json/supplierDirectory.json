@@ -32,14 +32,6 @@
     "website": "https://www.burndycss.com.au/"
   },
   {
-    "title": "Phoenix Metalform",
-    "description": "At Phoenix Metalform, we’re proud to be one of Australia’s leading providers of sheet metal building products, and sheet metal fabrications in Perth and Western Australia.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/phoenix-metalform.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/phoenix-metalform-cover.jpg",
-    "rangeUrl": "/search/?text=Phoenix+Metalform",
-    "website": "https://www.phoenixmetal.com.au/"
-  },
-  {
     "title": "Cabac",
     "description": "CABAC are an Australian leader in electrical products. We specialise in creating end-to-end solutions for the needs of any project across all sectors of the electrical industry.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/cabac.jpg",
@@ -128,20 +120,20 @@
     "website": "https://www.kleintools.com"
   },
   {
-    "title": "Robus",
-    "description": "ROBUS is a market-leading brand with a range of lighting solutions that are proven and trusted by over 2,000 stockists and thousands of installers internationally.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/robus.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/robus-cover.jpg",
-    "rangeUrl": "/search/?text=Robus",
-    "website": "https://robus.com.au/"
-  },
-  {
     "title": "Legrand",
     "description": "Legrand is a global specialist in products and systems for electrical installations and digital building infrastructures.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/legrand.svg",
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/legrand-cover.jpg",
     "rangeUrl": "/search/?text=Legrand",
     "website": "https://www.legrand.com.au/"
+  },
+  {
+    "title": "MMS Safety",
+    "description": "With a history that spans three decades, MMS Safety has distinguished itself by its unique business approach based on quality products.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/mms-safety.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/mms-safety-cover.jpg",
+    "rangeUrl": "/search/?text=MMS+Safety",
+    "website": "https://mmssafety.com.au/"
   },
   {
     "title": "Macsim",
@@ -168,28 +160,12 @@
     "website": "https://www.matchmaster.com.au/"
   },
   {
-    "title": "MMS Safety",
-    "description": "With a history that spans three decades, MMS Safety has distinguished itself by its unique business approach based on quality products.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/mms-safety.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/mms-safety-cover.jpg",
-    "rangeUrl": "/search/?text=MMS+Safety",
-    "website": "https://mmssafety.com.au/"
-  },
-  {
     "title": "NHP",
     "description": "With over 50 years of electrical and engineering industry excellence and more than 20 branches across Australia and New Zealand, at NHP it is our local people and footprint that helps us understand your specific project needs, no matter how big or small.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/nhp.svg",
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/nhp-cover.jpg",
     "rangeUrl": "/search/?text=NHP",
     "website": "https://www.nhp.com.au/"
-  },
-  {
-    "title": "Pierlite",
-    "description": "Australia and New Zealand’s leading lighting solutions provider for commercial, industrial and healthcare applications.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/pierlite.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/pierlite-cover.png",
-    "rangeUrl": "/search/?text=Pierlite",
-    "website": "https://pierlite.com.au/"
   },
   {
     "title": "PSA",
@@ -200,6 +176,22 @@
     "website": "https://www.psaproducts.com.au/"
   },
   {
+    "title": "Phoenix Metalform",
+    "description": "At Phoenix Metalform, we’re proud to be one of Australia’s leading providers of sheet metal building products, and sheet metal fabrications in Perth and Western Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/phoenix-metalform.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/phoenix-metalform-cover.jpg",
+    "rangeUrl": "/search/?text=Phoenix+Metalform",
+    "website": "https://www.phoenixmetal.com.au/"
+  },
+  {
+    "title": "Pierlite",
+    "description": "Australia and New Zealand’s leading lighting solutions provider for commercial, industrial and healthcare applications.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/pierlite.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/pierlite-cover.png",
+    "rangeUrl": "/search/?text=Pierlite",
+    "website": "https://pierlite.com.au/"
+  },
+  {
     "title": "Redback Ladders",
     "description": "Redback Ladders manufacture quality fibreglass ladders at a competitive price.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/redback-ladders.png",
@@ -208,11 +200,27 @@
     "website": "http://www.redbackladders.com.au/"
   },
   {
-    "title": "Schneider Electric",
+    "title": "Robus",
+    "description": "ROBUS is a market-leading brand with a range of lighting solutions that are proven and trusted by over 2,000 stockists and thousands of installers internationally.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/robus.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/robus-cover.jpg",
+    "rangeUrl": "/search/?text=Robus",
+    "website": "https://robus.com.au/"
+  },
+  {
+    "title": "SAL",
+    "description": "SAL’s product offer is an expansive array of LED Lamps, Luminaires and Smart Home Lighting controls.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/sal.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/sal-cover.jpg",
+    "rangeUrl": "/search/?text=SAL",
+    "website": "https://www.sal.net.au/"
+  },
+  {
+    "title": "Schneider",
     "description": "Schneider's purpose is to empower all to make the most of our energy and resources, bridging progress and sustainability for all. At Schneider, we call this Life Is On.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/schneider-electric.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/schneider-electric-cover.jpg",
-    "rangeUrl": "/search/?text=Schneider+Electric",
+    "rangeUrl": "/search/?text=Schneider",
     "website": "https://www.se.com/au/en/"
   },
   {
@@ -222,14 +230,6 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/sheffield-cover.jpg",
     "rangeUrl": "/search/?text=Sheffield",
     "website": "https://www.sheffield.com.au/"
-  },
-  {
-    "title": "SAL",
-    "description": "SAL’s product offer is an expansive array of LED Lamps, Luminaires and Smart Home Lighting controls.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/sal.jpg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/sal-cover.jpg",
-    "rangeUrl": "/search/?text=SAL",
-    "website": "https://www.sal.net.au/"
   },
   {
     "title": "Thorn",
