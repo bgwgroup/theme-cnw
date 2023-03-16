@@ -118,5 +118,37 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/kimberley-cover.jpg",
     "rangeUrl": "/search/?text=Kimberley",
     "website": "#"
+  },
+  {
+    "title": "Klein Tools",
+    "description": "Providing professional tradespeople with tools and solutions that enable the highest levels of performance and safety.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/klein.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/klein-cover.jpg",
+    "rangeUrl": "/search/?text=Klein",
+    "website": "https://www.kleintools.com"
+  },
+  {
+    "title": "Robus",
+    "description": "ROBUS is a market-leading brand with a range of lighting solutions that are proven and trusted by over 2,000 stockists and thousands of installers internationally.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/robus.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/robus-cover.jpg",
+    "rangeUrl": "/search/?text=Robus",
+    "website": "https://robus.com.au/"
+  },
+  {
+    "title": "Legrand",
+    "description": "Legrand is a global specialist in products and systems for electrical installations and digital building infrastructures.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/legrand.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/legrand-cover.jpg",
+    "rangeUrl": "/search/?text=Legrand",
+    "website": "https://www.legrand.com.au/"
+  },
+  {
+    "title": "Macsim",
+    "description": " Australia's leading Manufacturer & Supplier of Anchoring, Fasteners & Hardware Products in Australasia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/macsim.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/macsim-cover.jpg",
+    "rangeUrl": "/search/?text=Macsim",
+    "website": "https://www.macsim.com.au/"
   }
 ]
