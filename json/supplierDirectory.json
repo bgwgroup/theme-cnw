@@ -54,5 +54,29 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/clevertronics-cover.jpg",
     "rangeUrl": "/search/?text=Clevertronics",
     "website": "https://clevertronics.com.au/"
+  },
+  {
+    "title": "Clipsal",
+    "description": "Clipsal supply innovative residential and commercial electrical products and solutions - Power points, switches, lighting, c-bus, smart home & more.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/clipsal.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/clipsal-cover.jpg",
+    "rangeUrl": "/search/?text=Clipsal",
+    "website": "https://www.clipsal.com/"
+  },
+  {
+    "title": "Ezystrut",
+    "description": "Innovative Australian manufacturer of cable and pipe support components, offering you modern, leading-edge systems for managing building services.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/ezystrut.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/ezystrut-cover.jpg",
+    "rangeUrl": "/search/?text=Ezystrut",
+    "website": "https://www.ezystrut.com.au/"
+  },
+  {
+    "title": "Fantech",
+    "description": "Fantech has been at the forefront of fan and acoustics technology by developing and implementing new and innovative products for virtually every air movement and ventilation need, as well as noise attenuation.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/fantech.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/fantech-cover.jpg",
+    "rangeUrl": "/search/?text=Fantech",
+    "website": "https://www.fantech.com.au/"
   }
 ]
