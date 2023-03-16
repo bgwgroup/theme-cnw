@@ -96,11 +96,27 @@
     "website": "https://haneco.com.au/"
   },
   {
-    "title": "HellermannTyton ",
+    "title": "HellermannTyton",
     "description": "HellermannTyton is one of the leading suppliers of products for fastening, fixing, identifying and protecting cables and their connecting components.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/hellermanntyton.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/hellermanntyton-cover.jpg",
     "rangeUrl": "/search/?text=HellermannTyton ",
     "website": "https://www.hellermanntyton.com/"
+  },
+  {
+    "title": "Hunter Pacific International",
+    "description": "Quality and innovation are the philosophical cornerstone underpinning Hunter Pacific International's",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/hunter-pacific.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/hunter-pacific-cover.jpg",
+    "rangeUrl": "/search/?text=Hunter+Pacific+International",
+    "website": "https://www.hunterpacificinternational.com/"
+  },
+  {
+    "title": "Kimberley",
+    "description": "Kimberley Accessories",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/kimberley.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/kimberley-cover.jpg",
+    "rangeUrl": "/search/?text=Kimberley",
+    "website": "#"
   }
 ]
