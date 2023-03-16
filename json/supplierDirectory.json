@@ -14,5 +14,13 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/br-enclosures-cover.jpg",
     "rangeUrl": "/search/?text=B&R+Enclosures",
     "website": "https://www.brenclosures.com.au/"
+  },
+  {
+    "title": "Brooks",
+    "description": "Wireless alarm interconnection enables smoke alarms to be connected to ... Brooks offer a range of solutions to suit a variety of building types and sizes.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/brooks.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/brooks-cover.jpg",
+    "rangeUrl": "/search/?text=Brooks",
+    "website": "https://www.brooks.com.au/"
   }
 ]
