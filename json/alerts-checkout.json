@@ -1,8 +1,8 @@
 [
     {
         "visible": "true",
-        "title": "COVID-19",
-        "description": "See the latest assessment and care options, plus temporary visitor restrictions.",
+        "title": "Payment Gateway Down",
+        "description": "Our payment gateway is currently down, please try again soon.",
         "link": "https://www.google.com",
         "target": "_blank"
     }
