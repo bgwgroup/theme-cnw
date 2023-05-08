@@ -5,8 +5,7 @@
       "imgDesktop":"/_ui/responsive/common/images/cnw/home/hero-slider/01.png",
       "imgMobile":"/_ui/responsive/common/images/cnw/home/hero-slider/01.png",
       "btnText":"Learn more",
-      "btnLink":"#",
-      "target":"_self"
+      "btnLink":"#"
    },
   {
       "title":"Bonus Prepaid VISA Gift Card",
@@ -14,7 +13,6 @@
       "imgDesktop":"/_ui/responsive/common/images/cnw/home/hero-slider/02.jpg",
       "imgMobile":"/_ui/responsive/common/images/cnw/home/hero-slider/02.jpg",
       "btnText":"Learn more",
-      "btnLink":"#",
-      "target":"_self"
+      "btnLink":"#"
    }
 ]
