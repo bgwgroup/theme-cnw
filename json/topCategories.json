@@ -10,7 +10,7 @@
       "title":"Air Movement",
       "subtitle":"Shop now",
       "icon":"/_ui/responsive/common/images/category-icons/icon-hvac.png",
-      "image":"https://source.unsplash.com/random/800x500/?animal",
+      "image":"",
       "link":"#"
    },
   {
@@ -23,7 +23,7 @@
   {
       "title":"Cable",
       "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-cable-wire.png",
+      "icon":"",
       "image":"https://source.unsplash.com/random/800x500/?animal",
       "link":"#"
    },
