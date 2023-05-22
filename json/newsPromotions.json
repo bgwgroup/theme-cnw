@@ -28,5 +28,35 @@
       "image": "https://i.ibb.co/qx2z6Pg/cnw-giveaway-round-3.jpg",
       "link": "https://www.facebook.com/CNWElectrical/posts/pfbid02JenG4GJU9gAihheE7KwbwTA6GvUuJXVVnWoyf19bEpcY13rqeUEvwQfzKMrEnS95l?__tn__=-R",
       "target": "_blank"
-  }
+  },
+  {
+      "category": "category-news",
+      "date": "28 April",
+      "video": "true",
+      "title": "🎉Congratulations @mpk_electrical_pty_ltd🎉",
+      "text": "Congratulations to our second winner of the CNW Giveaway. We will be in contact with you shortly! Stay tuned for the next post on Monday! 👀",
+      "image": "https://i.ibb.co/5W2vCpj/cnw-giveaway-winner-2.jpg",
+      "link": "https://www.facebook.com/CNWElectrical/videos/1936041406788259/",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "21 April",
+      "video": "false",
+      "title": "📢 New RCD Installation Requirements in Australia! 💡",
+      "text": "Starting May 1st, 2023: Type AC RCDs must not be installed in new installations. Type AC RCDs must not be installed in new sub-circuits. Type AC RCDs must not be installed in alterations to existing sub-circuits...",
+      "image": "https://i.ibb.co/5j29XXc/new-rcd-installation-requirements.jpg",
+      "link": "https://www.facebook.com/CNWElectrical/photos/a.668956646469718/6483351998363458/?type=3",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "20 April",
+      "video": "true",
+      "title": "📢 CNW Ballarat Opening 🎉",
+      "text": "The CNW Ballarat team is thrilled to announce the official opening of our newest store! Come through and meet our crew if you haven't already done so 🥳",
+      "image": "https://i.ibb.co/52d5PVv/cnw-ballarat-opening.jpg",
+      "link": "https://www.facebook.com/reel/757673609150838",
+      "target": "_blank"
+  },
 ]
