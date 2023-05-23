@@ -118,5 +118,45 @@
       "image": "https://i.ibb.co/TwLy3pv/cnw-promo-clipsal.jpg",
       "link": "https://www.facebook.com/CNWElectrical/photos/a.668956646469718/6372408766124449/",
       "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "14 March",
+      "video": "true",
+      "title": "Meet Lincoln, the Branch Manager of our newest CNW branch in Ballarat, Vic! 👋",
+      "text": "With his extensive industry knowledge, Lincoln knows exactly how to lead the team to deliver the ultimate CNW customer experience. 🥇",
+      "image": "https://i.ibb.co/GtD1GBW/cnw-meet-lincoln.jpg",
+      "link": "https://www.facebook.com/CNWElectrical/videos/236809488777745/",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "10 March",
+      "video": "false",
+      "title": "Welcome Ricky G to the CNW Electrical Hall Of Fame 🏆👈",
+      "text": "A massive congratulations on your 10 years milestone ✨ Ricky is an essential asset to CNW and we are very grateful for all his hard work over the years.  We look forward to many more years with Ricky on board! 🥇",
+      "image": "https://i.ibb.co/RNRXxJT/welcome-ricky-g.jpg",
+      "link": "https://www.facebook.com/CNWElectrical/photos/a.668956646469718/6355785417786784/",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "9 March",
+      "video": "false",
+      "title": "Revolutionise your outdoor installations with the Clipsal Iconic Outdoor range.",
+      "text": "These weather-proof switches and powerpoints deliver a perfect balance of durability, aesthetics, and innovative technology, making installation quick and easy. Your customers can enjoy the same style and performance they expect from the existing Iconic range, now extended to their outdoor spaces.",
+      "image": "https://i.ibb.co/4S2frG6/clipsal-iconic-outdoor-range.jpg",
+      "link": "https://www.facebook.com/CNWElectrical/photos/a.668956646469718/6352339841464675/",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "8 March",
+      "video": "false",
+      "title": "Happy International Women's Day 💜",
+      "text": "Thank you to all the strong women that support CNW day in and day out. Your hard work and dedication is invaluable and doesn't go unnoticed ✨🥇",
+      "image": "https://i.ibb.co/LvxzQ9J/cnw-women.jpg",
+      "link": "https://www.facebook.com/CNWElectrical/photos/a.668956646469718/6348916625140330/",
+      "target": "_blank"
   }
 ]
