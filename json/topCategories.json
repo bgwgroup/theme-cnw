@@ -10,29 +10,29 @@
       "title":"Smoke Alarm",
       "subtitle":"Shop now",
       "icon":"",
-      "image":"https://shop.cnw.com.au/medias/CLI755LPSMA4-Image-1.jpg?context=bWFzdGVyfGltYWdlc3wzMTY5NXxpbWFnZS9qcGVnfGgyNS9oYmUvOTk1Nzk0OTM0MTcyNi9DTEk3NTVMUFNNQTQgLSBJbWFnZSAxLmpwZ3wxMjQwZDVmOTk3YThlMzA1MjE4YjBkZDk5NTUwNTk1NjQyNTk4NDAzMDQ3ZDliNGU4NzM5YWNjNTE2YzFhODQw",
-      "link":"https://shop.cnw.com.au/cnw/en/AUD/All-Categories/Sound-and-Warning/Smoke-Alarm/c/SMOKEALARM"
+      "image":"https://i.ibb.co/xgTXMBW/clipsal-smoke-alarm-tc.png",
+      "link":"/cnw/en/AUD/All-Categories/Sound-and-Warning/Smoke-Alarm/c/SMOKEALARM"
    },
   {
       "title":"Lighting",
       "subtitle":"Shop now",
       "icon":"",
-      "image":"https://shop.cnw.com.au/medias/HANVIVAFLTRI-1-.png?context=bWFzdGVyfGltYWdlc3w0NjY4NnxpbWFnZS9wbmd8aDM4L2gxMC85MzMxMTkxMTUyNjcwL0hBTlZJVkFGTFRSSSAoMSkucG5nfDBjMjM4ZmFlOWY3NjFiZGM0NDU4NGY2YzU2NTU5MDVkZmU1OTBkYTk1ZjNlMmFiNGUwYjIwZTQyN2U1NjFjNjI",
-      "link":"https://shop.cnw.com.au/All-Categories/Lighting/c/LIGHTING"
+      "image":"https://i.ibb.co/gDqH3ZR/haneco-downlights-tc.png",
+      "link":"/All-Categories/Lighting/c/LIGHTING"
    },
   {
       "title":"Cable & Wire",
       "subtitle":"Shop now",
       "icon":"",
       "image":"https://shop.cnw.com.au/medias/masterMedia-CBL2.5T-EF12C?context=bWFzdGVyfGltYWdlc3wyODQ0NHxpbWFnZS9qcGVnfGltYWdlcy9oZWYvaGNkLzg4MTE5MzM2MzA0OTQuanBnfDhmNWY2OWNiNmRhMjQyNjg1NDJhNDhjZDExYTI4Yjg2ZTkyMDYzYWQyMDY3MTM2N2FkZTkwMWVjZWFlYjNjMzQ",
-      "link":"https://shop.cnw.com.au/cnw/en/AUD/All-Categories/Cable/c/CABLEANDWIRE"
+      "link":"/cnw/en/AUD/All-Categories/Cable/c/CABLEANDWIRE"
    },
   {
       "title":"Air Conditioning",
       "subtitle":"Shop now",
       "icon":"",
       "image":"https://shop.cnw.com.au/medias/HAIAS26TACHRA-SET.jpg?context=bWFzdGVyfGltYWdlc3wzMTQ5OXxpbWFnZS9qcGVnfGg5Mi9oNzQvOTgzNjkwNzk1NDIwNi9IQUlBUzI2VEFDSFJBLVNFVC5qcGd8NDdkNWQ0YzkzNThkMGJhZmNlZTYwN2QxYjEzYmYxNzA4OTU0ZGRmZjFiZjkzYzc0OGJiMDVhYWZlZWU0MzY0YQ",
-      "link":"https://shop.cnw.com.au/cnw/en/AUD/All-Categories/Heating%2C-Ventilation-and-Cooling/Air-Conditioner/c/AIRCONDITIONER"
+      "link":"/cnw/en/AUD/All-Categories/Heating%2C-Ventilation-and-Cooling/Air-Conditioner/c/AIRCONDITIONER"
    },
   {
       "title":"Heating, Ventilation & Cooling",
@@ -46,13 +46,13 @@
       "subtitle":"Shop now",
       "icon":"",
       "image":"https://shop.cnw.com.au/medias/CDT9032HD.jpg?context=bWFzdGVyfGltYWdlc3w3MDczMXxpbWFnZS9qcGVnfGg4Ny9oMGQvOTMxNzIyOTc4OTIxNC9DRFQ5MDMySEQuanBnfDQ0Yzg2OTcxNDdkNTgzYjliODI2Y2Y5ZTZlYjk2Y2JlM2JjZWNlNTNiZWIyNTEwMzZmMTQzMDlmODBiMzM1NzM",
-      "link":"https://shop.cnw.com.au/cnw/en/AUD/All-Categories/Conduit/c/CONDUIT"
+      "link":"/cnw/en/AUD/All-Categories/Conduit/c/CONDUIT"
    },
   {
       "title":"Electrical Distribution",
       "subtitle":"Shop now",
       "icon":"",
       "image":"https://shop.cnw.com.au/medias/Hager.jpg?context=bWFzdGVyfGltYWdlc3w0NjY0MHxpbWFnZS9qcGVnfGgwMy9oNTQvOTgyNjIxODM0NDQ3OC9IYWdlci5qcGd8NDRmMjY5MWNlNDA2ZDNjYTFmMmEwZThjOTYwNDJhMzViN2M2OTFmNzUwZmY5NGNiMzg4MGJiNGJlZTkyYzZmYg",
-      "link":"https://shop.cnw.com.au/All-Categories/Electrical-Distribution/c/ELECTRICALDISTRIBUTION"
+      "link":"/All-Categories/Electrical-Distribution/c/ELECTRICALDISTRIBUTION"
    }
 ]
