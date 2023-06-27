@@ -1,7 +1,7 @@
 [
   {
     "department": "Sales",
-    "employment-type": "Full-time",
+    "employmentType": "Full-time",
     "title": "Striker - Northern Beaches, NSW",
     "location": "Sydney, New South Wales, Australia",
     "flag": "au",
@@ -9,7 +9,7 @@
   },
   {
     "department": "Sales",
-    "employment-type": "Full-time",
+    "employmentType": "Full-time",
     "title": "Musketeer, Sunshine Coast + North Brisbane",
     "location": "Sunshine Coast, Queensland, Australia",
     "flag": "au",
@@ -17,7 +17,7 @@
   },
   {
     "department": "Marketing",
-    "employment-type": "Full-time",
+    "employmentType": "Full-time",
     "title": "Advertising & Media Manager",
     "location": "Sydney, New South Wales, Australia",
     "flag": "au",
