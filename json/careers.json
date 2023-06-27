@@ -1,6 +1,6 @@
 [
   {
-    "active": "true",
+    "active": "false",
     "department": "Sales",
     "employmentType": "Full-time",
     "title": "Striker - Northern Beaches, NSW",
@@ -18,7 +18,7 @@
     "url": "#"
   },
   {
-    "active": "true",
+    "active": "false",
     "department": "Marketing",
     "employmentType": "Full-time",
     "title": "Advertising & Media Manager",
