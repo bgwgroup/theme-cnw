@@ -59,28 +59,28 @@
       "title":"Data",
       "subtitle":"Shop now",
       "icon":"",
-      "image":"",
+      "image":"https://i.ibb.co/TqHtGFj/cnw-tc-data.png",
       "link":"/All-Categories/Data/c/DATA"
    },
    {
       "title":"Industrial",
       "subtitle":"Shop now",
       "icon":"",
-      "image":"",
+      "image":"https://i.ibb.co/gTNV1hY/cnw-tc-industrial.png",
       "link":"/All-Categories/Industrial/c/INDUSTRIAL"
    },
    {
       "title":"Home Automation",
       "subtitle":"Shop now",
       "icon":"",
-      "image":"",
+      "image":"https://i.ibb.co/SQkVKYB/cnw-tc-home-automation.png",
       "link":"/All-Categories/Home-Automation/c/HOMEAUTOMATION"
    },
    {
       "title":"Tools & Equipment",
       "subtitle":"Shop now",
       "icon":"",
-      "image":"",
+      "image":"https://i.ibb.co/Gv4qtH1/cnw-tc-home-tools-equipment.png",
       "link":"/All-Categories/Tools-and-Test-Equipment/c/TOOLSANDTESTEQUIPMENT"
    }
 ]
