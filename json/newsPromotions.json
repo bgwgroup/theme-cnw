@@ -26,6 +26,7 @@
       "title": "🚨SPARKYS!! - CNW GIVEAWAY ROUND 3🚨",
       "text": "We’re on the FINAL Month of this giveaway. If you missed out on the first one heres your chance to re enter!",
       "image": "https://i.ibb.co/qx2z6Pg/cnw-giveaway-round-3.jpg",
+      "expired" : "true",
       "link": "https://www.facebook.com/CNWElectrical/posts/pfbid02JenG4GJU9gAihheE7KwbwTA6GvUuJXVVnWoyf19bEpcY13rqeUEvwQfzKMrEnS95l?__tn__=-R",
       "target": "_blank"
   },
@@ -86,6 +87,7 @@
       "title": "🚨SPARKYS!! - CNW GIVEAWAY ROUND 2🚨",
       "text": "We’re on the 2nd month of this giveaway. If you missed out on the first 1 heres your chance to re enter!",
       "image": "https://i.ibb.co/mzSpLWN/cnw-giveaway-round-2.jpg",
+      "expired" : "false",
       "link": "https://www.facebook.com/CNWElectrical/posts/pfbid02qEa7Zzhxj9uiiPG2r3kjVT8EUgLD5YX2NHHSLdgeQ2FPEkh1QwiEkKcWzwKSASu1l?__cft__[0]=AZUTcTjkCJuSFyFx1ZNKhcEQKaDb-DKWcOiksdNVrqUxMqn0qA2JM7S_9u7B4K4-hZV4xDfxGZf_-K4OSXR8AmS6BgkB3l7Ln9-HzWhgSqnj7ZlhMEArjVDhlkj6xtbW-pmiNRApG43BO34nfVpvYnSVmf913ywJuOfJvG-rB0gUj3ybfNTfbxDOghLViOu4qsAYCQckGqAPBYHCrPIBs18ncMf49iyqldQawKSFkb45XQ&__tn__=%2CO%2CP-R",
       "target": "_blank"
   },
@@ -116,6 +118,7 @@
       "title": "🚨 2 WEEKS LEFT 🚨",
       "text": "Hurry! Get your hands on a $50 Prezzee card when you spend $1000 or more in a single transaction on selected Clipsal products Iconic, Classic, and Circuit Protection! 💰💡👌",
       "image": "https://i.ibb.co/TwLy3pv/cnw-promo-clipsal.jpg",
+      "expired" : "false",
       "link": "https://www.facebook.com/CNWElectrical/photos/a.668956646469718/6372408766124449/",
       "target": "_blank"
   },
@@ -186,6 +189,7 @@
       "title": "🚨ATTENTION SPARKYS - CNW GIVEAWAY🚨",
       "text": "We're shaking things up this month and the next 2 months with a BIG giveaway!",
       "image": "https://i.ibb.co/zsjTYLX/cnw-giveaway-round-1.jpg",
+      "expired" : "false",
       "link": "https://www.facebook.com/CNWElectrical/videos/501897275268434/",
       "target": "_blank"
   },
@@ -196,6 +200,7 @@
       "title": "🎉 Attention all Clipsal fans! 🎉",
       "text": "We have some exciting news for you! Get your hands on a $50 Prezzee card when you spend $1000 or more in a single transaction on your favourite Clipsal products Iconic, Classic, and Resimax Circuit Protection! 💰💡👌",
       "image": "https://i.ibb.co/qxt4HB8/clipsal-prezzee.jpg",
+      "expired" : "false",
       "link": "https://www.facebook.com/CNWElectrical/posts/pfbid0TTtK3yMtMHYnNsXFY7Zw6SqLBPpFv87zhzYwbykoiiGZezkns5AGm4YormgUJTWrl?__cft__[0]=AZVEebfWWIAdg84FTjsMexiGLBj-KuLBVFm4qtF7y-J9zi_oax5Fmzsa6rSc9AlnBU3ZaBaIYz0VfGUhIDFB-ea5blLsI65QyaoSLB87Qamug5nqVGgnfR64-hk-zwKzSNUzDPTwbRjkiSmX4E3qHyaxzmbEwBLnJIGyVm5uGBhyu0Tfj9RND5JkAUh8lzBLNUszLUPHDpyBQc7ek8AChLWo&__tn__=%2CO%2CP-R",
       "target": "_blank"
   },
@@ -226,6 +231,7 @@
       "title": "You know the drill 🚨",
       "text": "Hager's, Work Hard, Play Hard is back and better than ever in 2023 👈 Purchase any eligible pack in branch or online at https://buff.ly/3RAUGTi  and start redeeming prizes! 🎁 Don't miss your chance, limited time only.",
       "image": "https://i.ibb.co/zV2mjLr/cnw-hager.jpg",
+      "expired" : "false",
       "link": "https://www.facebook.com/CNWElectrical/posts/pfbid02gBbgRmhL4DWYQQGwf2aJTUBcLdzoVuo8cvtCgmwzrXYoqEJFQPBj7yZJkyMoPUFzl?__cft__[0]=AZVMBo6TAvcZWis11ygGVtCG5u3xM_4dwqlc5iayMO05bWqMueSvQB4hiPpTHuNwG3AANvnWBEf6IYu_wCQlQVt2hbzIJJEATQBcOrkJELQUn4VdBs9n2PfIlF3vZ5PywnLE47Yw1UgCHawuxHYoqbFchXjhuSAUrFD6ssNRZhd9OVVX43LM8_cZMO6CvwJhlrIyIQXn77oGnr4QRK2dXLwJ&__tn__=%2CO%2CP-R",
       "target": "_blank"
   },
@@ -236,6 +242,7 @@
       "title": "CNW and Haier have upped the ante! We are back again with all your Tempo needs.",
       "text": "Purchase a Haier Tempo Hi-Wall Split System and receive a bonus prepaid Visa gift card. CNW Electrical has got you covered!",
       "image": "https://i.ibb.co/3yLRwJy/cnw-haier-promo.jpg",
+      "expired" : "false",
       "link": "https://shop.cnw.com.au/haier-bonus-gift-card",
       "target": "_self"
   },
