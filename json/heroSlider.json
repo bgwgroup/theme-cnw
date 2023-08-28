@@ -12,19 +12,5 @@
       "imgMobile":"https://www.reece.com.au/dxresources/6b8e/6b8e9106-d91d-478d-9ec7-b4fac0862cfb.gif",
       "btnText":"Get started now",
       "btnLink":"#"
-   },
-   {
-      "title":"The BIG Local Supporter",
-      "imgDesktop":"https://i.ibb.co/qJTjRcq/Website-Hero-Slider-The-BIG-Local-Supporter-No-logo.jpg",
-      "imgMobile":"https://i.ibb.co/Brm8nd9/EDM-The-BIG-Local-Supporter.jpg",
-      "btnText":"Get started now",
-      "btnLink":"#"
-   },
-   {
-      "title":"Integration HUB",
-      "imgDesktop":"https://i.ibb.co/840fTfF/cnw-erp-4.jpg",
-      "imgMobile":"https://i.ibb.co/840fTfF/cnw-erp-4.jpg",
-      "btnText":"Connect now",
-      "btnLink":"/erp-integration"
    }
 ]
