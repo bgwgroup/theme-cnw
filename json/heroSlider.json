@@ -1,16 +1,9 @@
 [
    {
-      "title":"The BIG Local Supporter",
-      "imgDesktop":"https://www.reece.com.au/dxresources/c6bb/c6bb69b4-e0c0-4073-ab8e-8d03ddc858cf.png",
-      "imgMobile":"https://www.reece.com.au/dxresources/5dbf/5dbf72fc-a089-49e0-9f70-b3320c653640.png",
-      "btnText":"Get started now",
-      "btnLink":"#"
-   },
-   {
-      "title":"The BIG Local Supporter",
-      "imgDesktop":"https://www.reece.com.au/dxresources/585a/585a21ce-2084-4c99-b3ec-defe24eb6040.gif",
-      "imgMobile":"https://www.reece.com.au/dxresources/6b8e/6b8e9106-d91d-478d-9ec7-b4fac0862cfb.gif",
-      "btnText":"Get started now",
+      "title":"Slide 1",
+      "imgDesktop":"https://i.ibb.co/k0yWQGc/hero-slider-desktop.jpg",
+      "imgMobile":"https://i.ibb.co/bNj69Jv/hero-slider-mobile.jpg",
+      "btnText":"Learn more",
       "btnLink":"#"
    }
 ]
