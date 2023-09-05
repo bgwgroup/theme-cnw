@@ -1,0 +1,6 @@
+.scaffoldSupplier{
+  background:blue;
+}
+.scaffoldSupplier .alarm {
+  outline: solid 2px orange;
+}
