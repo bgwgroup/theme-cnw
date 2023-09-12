@@ -7,7 +7,7 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/australian-plastic-profiles-cover.jpg",
     "rangeUrl": "/search/?text=Australian+Plastic+Profiles",
     "website": "https://www.app.net.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "https://i.ibb.co/rd9tysb/top-Banner.jpg",
     "dataTitle": "",
     "dataDescription": "",
