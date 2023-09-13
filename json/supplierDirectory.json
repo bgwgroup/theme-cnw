@@ -27,7 +27,7 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/br-enclosures-cover.jpg",
     "rangeUrl": "/search/?text=B&R+Enclosures",
     "website": "https://www.brenclosures.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
