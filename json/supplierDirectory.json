@@ -67,7 +67,7 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/burndy-cover.jpg",
     "rangeUrl": "/search/?text=Burndy",
     "website": "https://www.burndycss.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
