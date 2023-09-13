@@ -87,7 +87,7 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/cabac-cover.jpg",
     "rangeUrl": "/search/?text=Cabac",
     "website": "https://www.cabac.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
@@ -97,7 +97,7 @@
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"Cabac,Electrical,Industry,Products,Australian,Cable,Designs"
   },
   {
     "id": "clevertronics",
