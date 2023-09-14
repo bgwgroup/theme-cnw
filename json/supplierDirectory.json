@@ -107,17 +107,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/clevertronics-cover.jpg",
     "rangeUrl": "/search/?text=Clevertronics",
     "website": "https://clevertronics.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;img src=&quot;https://i.ibb.co/vd4GXnc/logo.jpg&quot; alt=&quot;Clevertronics logo&quot; /&gt; &lt;/div&gt;&lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/mC9KPfr/clevertronics-slider-1.jpg,https://i.ibb.co/3rYp6M5/clevertronics-slider-2.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;intro&quot;&gt; &lt;h1&gt;World Leading Specialist in Energeny Lighting&lt;/h1&gt; &lt;p&gt;Clevertronics is a market-leading specialist in emergency and exit lighting solutions. With their advanced technology and innovative designs, they provide the most reliable and efficient emergency lighting systems. From dynamic exit lights to wireless connectivity, Clevertronics offers cutting-edge solutions for your safety needs. Trust Clevertronics for all your emergency lighting requirements.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Clevertronics&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://clevertronics.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split download&quot;&gt; &lt;div&gt; &lt;h2&gt;Download our latest&lt;strong&gt;Product Catalogue&lt;/strong&gt;&lt;/h2&gt; &lt;a href=&quot;https://clevertronics.com.au/clevertronics-product-catalogue&quot; target=&quot;_blank&quot;&gt;Download Catalogue&lt;/a&gt; &lt;/div&gt; &lt;div&gt; &lt;img src=&quot;https://i.ibb.co/87jG0tz/product-catalogue-20222023-0.png&quot; alt=&quot;Download our latest Product Catalogue&quot; /&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split video&quot;&gt; &lt;div&gt; &lt;h2&gt;We are &lt;strong&gt;specialists&lt;/strong&gt; in emergency lighting&lt;/h2&gt; &lt;p&gt;Clevertronics are market leading specialists in the design, development, manufacturing and supply of emergency and exit lighting and automated monitoring systems.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;video-container&quot;&gt; &lt;iframe width=&quot;100%&quot; height=&quot;536&quot; src=&quot;https://www.youtube.com/embed/LpYkclni9pU&quot; title=&quot;Clevertronics Corporate Video&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"Clevertronics,emergency, exit, lighting, emergency lighting systems,safety"
   },
   {
     "id": "clipsal",
