@@ -207,17 +207,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/haneco-cover.jpg",
     "rangeUrl": "/search/?text=Haneco",
     "website": "https://haneco.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;img src=&quot;https://i.ibb.co/JFCLHSr/logo.png&quot; alt=&quot;Haneco logo&quot; /&gt; &lt;/div&gt;&lt;div class=&quot;intro&quot;&gt; &lt;h1&gt;Idea&#39;s that Shine&lt;/h1&gt; &lt;h2&gt;Cutting-edge lighting solutions&lt;/h2&gt; &lt;p&gt;Haneco Lighting, an Australian owned LED specialist, is committed to sustainability and innovation in residential and commercial lighting solutions. Known for their high-quality LED products, Haneco offers cutting-edge lighting solutions for modern lifestyles and industry. Their dedication to creating energy-efficient lighting sets them apart in the global market.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Haneco&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://haneco.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;IconTiles&quot;&gt; &lt;div class=&quot;Tile&quot;&gt; &lt;div class=&quot;TileWrapper&quot;&gt; &lt;div class=&quot;TileContent&quot;&gt; &lt;div class=&quot;TileContentIcon&quot;&gt; &lt;img src=&quot;https://haneco.com.au/wp-content/uploads/2016/07/residential-non-retina.jpg&quot; alt=&quot;Residential&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;TileContentHeading&quot;&gt; &lt;h4&gt;Residential&lt;/h4&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;Tile&quot;&gt; &lt;div class=&quot;TileWrapper&quot;&gt; &lt;div class=&quot;TileContent&quot;&gt; &lt;div class=&quot;TileContentIcon&quot;&gt; &lt;img src=&quot;https://haneco.com.au/wp-content/uploads/2016/07/commercial-non-retina.jpg&quot; alt=&quot;Commercial &amp; Industrial&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;TileContentHeading&quot;&gt; &lt;h4&gt;Commercial &amp; Industrial&lt;/h4&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;Tile&quot;&gt; &lt;div class=&quot;TileWrapper&quot;&gt; &lt;div class=&quot;TileContent&quot;&gt; &lt;div class=&quot;TileContentIcon&quot;&gt; &lt;img src=&quot;https://haneco.com.au/wp-content/uploads/2016/07/home-lighting-design-service.jpg&quot; alt=&quot;Lighting Design&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;TileContentHeading&quot;&gt; &lt;h4&gt;Lighting Design&lt;/h4&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;video-container&quot;&gt; &lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/-39c6matwpc&quot; title=&quot;Switch On with Haneco #rebrand&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"haneco,lighting,led,led lighting,residential,commercial,industrial,lighting design,electrical"
   },
   {
     "id": "hellermanntyton",
