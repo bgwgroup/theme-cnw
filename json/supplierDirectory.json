@@ -267,17 +267,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/kimberley-cover.jpg",
     "rangeUrl": "/search/?text=Kimberley",
     "website": "#",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;img src=&quot;https://i.ibb.co/2N8DSTF/logo.jpg&quot; alt=&quot;Kimberley Accessories logo&quot; /&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;For all your electrical supply needs&lt;/h1&gt; &lt;p&gt;Providing Australians with a vast range of electrical industry products, Kimberley Accessories has established a firm foothold in the industry. With products ranging from sockets, cables, connectors, brackets, clips, plug, electrical accessories and more. Owned and operated in Australia to Australian industry standards.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Kimberley&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/BBJXPKz/ka-1.jpg,https://i.ibb.co/hRsjnS7/ka-2.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"kimberley, kimberley accessories"
   },
   {
     "id": "klein-tools",
