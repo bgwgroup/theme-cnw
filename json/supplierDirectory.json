@@ -387,17 +387,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/matchmaster-cover.jpg",
     "rangeUrl": "/search/?text=Matchmaster",
     "website": "https://www.matchmaster.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;img src=&quot;https://i.ibb.co/X2rWkyg/logo.png&quot; alt=&quot;Matchmaster logo&quot; /&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;The premium supplier and manufacturer of digital TV antenna systems&lt;/h1&gt; &lt;p&gt;Matchmaster is the premier manufacturer and supplier of digital TV antenna systems in Australia. Providing 4G/5G-ready solutions for both domestic and commercial applications, Matchmaster is renowned for its high-quality products. Their innovative approach to digital TV technology makes them a trusted brand in the industry.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Matchmaster&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://www.matchmaster.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/7kMdd8v/matchmaster-slider-1.jpg,https://i.ibb.co/DLMNLj6/matchmaster-slider-2.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;video-container&quot;&gt; &lt;h2&gt;For the best Australian owned and manufactured products&lt;/h2&gt; &lt;iframe width=&quot;1140&quot; height=&quot;641&quot; src=&quot;https://www.youtube.com/embed/4538tlGphDw&quot; title=&quot;Matchmaster Digital Antennas - Australian Made. Australian Owned.&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt;",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"matchmaster, digital, tv, antenna, antenna systems, tv antenna, 4g, 5g, domestic, commercial, technology"
   },
   {
     "id": "nhp",
