@@ -347,17 +347,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/macsim-cover.jpg",
     "rangeUrl": "/search/?text=Macsim",
     "website": "https://www.macsim.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;img src=&quot;https://i.ibb.co/1bXCf05/logo.jpg&quot; alt=&quot;Macsim logo&quot; /&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"macsim,Anchoring, Fastening, Macsim, Screws, Bolts, Nails, bremick, ramset"
   },
   {
     "id": "madison",
