@@ -467,17 +467,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/pierlite-cover.png",
     "rangeUrl": "/search/?text=Pierlite",
     "website": "https://pierlite.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/0Qfdj5f/logo.png&quot; alt=&quot;Pierlite logo&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderHeader&quot; data-effect=&quot;fade&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/2hPs83z/pierlite-1.png,https://i.ibb.co/m53cHCs/pierlite-2.png,https://i.ibb.co/jR0p28s/pierlite-3.png,https://i.ibb.co/9tXCFm5/pierlite-4.png&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Quality lighting solutions&lt;/h1&gt; &lt;p&gt;Pierlite provides top-quality lighting solutions, including energy-efficient lamps and technically demanding HID Metal Halides. Known for products like their dimmable Phoenix V2 LED downlight and the slimline Hornet LED floodlight, Pierlite combines innovative design with practical functionality. They&#39;re a go-to choice for both interior and exterior lighting needs.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Pierlite&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://pierlite.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/6BgTfLK/pierlite-slider-1.jpg,https://i.ibb.co/9tV7qWh/pierlite-slider-2.jpg,https://i.ibb.co/bJtZk7r/pierlite-slider-3.jpg,https://i.ibb.co/HCwsq7x/pierlite-slider-4.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split video&quot;&gt; &lt;div&gt; &lt;h2&gt;Lighting the way to a bright future&lt;/h2&gt; &lt;p&gt;With more than 70 years of being at the forefront of the latest lighting technologies our industry leading reputation and huge portfolio of projects across the commercial, industrial, and health sectors put us in a league of our own.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;video-container&quot;&gt; &lt;iframe width=&quot;783&quot; height=&quot;440&quot; src=&quot;https://www.youtube.com/embed/4BFY1pAV3Pg&quot; title=&quot;Pierlite: Lighting the way to a bright future&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"pierlite,lighting solutions,energy-efficient,LED,interior,exterior"
   },
   {
     "id": "redback-ladders",
