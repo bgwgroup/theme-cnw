@@ -607,16 +607,16 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/ventair-cover.jpg",
     "rangeUrl": "/search/?text=Ventair",
     "website": "https://ventair.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/tQB01tV/logo.jpg&quot; alt=&quot;Ventair logo&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderHeader&quot; data-effect=&quot;fade&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/JRYV4XB/ventair-banner-1.jpg,https://i.ibb.co/bWg899M/ventair-banner-2.jpg,https://i.ibb.co/Zg51LcZ/ventair-banner-3.jpg,https://i.ibb.co/nj79tqW/ventair-banner-4.jpg,https://i.ibb.co/svfm2tB/ventair-banner-5.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Innovative climate control solutions&lt;/h1&gt; &lt;p&gt;Ventair is a renowned brand offering top-tier heating and ventilation solutions. Their product range includes ceiling fans, exhaust fans, bathroom heaters, and heated towel rails. Ventair is committed to providing high-quality, efficient products that elevate your home&#39;s comfort and functionality. Discover Ventair for innovative climate control solutions.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Ventair&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://ventair.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/n15s4PW/ventair-slider-1.jpg,https://i.ibb.co/F5DkRt7/ventair-slider-2.jpg,https://i.ibb.co/8zLNxdj/ventair-slider-3.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"ventair, ventilation, ceiling fans, exhaust fans, bathroom heaters, heated towel rails, Ceiling Fans,Exhaust Fans,Bathroom 3 in 1 Heaters,Heated Towel Rails,Clearance Fans"
   }
 ]
