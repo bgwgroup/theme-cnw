@@ -567,17 +567,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/sheffield-cover.jpg",
     "rangeUrl": "/search/?text=Sheffield",
     "website": "https://www.sheffield.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/QMZS07R/logo.png&quot; alt=&quot;Sheffield logo&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderHeader&quot; data-effect=&quot;fade&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/fXCKS3R/sheffield-slider-1.jpg,https://i.ibb.co/G3NkzKS/sheffield-slider-2.jpg,https://i.ibb.co/72VtJ8n/sheffield-slider-3.jpg,https://i.ibb.co/F5LBYNv/sheffield-slider-4.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;intro&quot;&gt; &lt;h1&gt;Complete solutions in cutting tools&lt;/h1&gt; &lt;p&gt;Sheffield is your go-to for cutting, grinding, and polishing tools. They offer a wide range of products from diamond blades to timber cutting blades, and from hole cutters to cobalt drills. Illuminate your workspace with their selection of torches and lighting products.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Sheffield&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://www.sheffield.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt;",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"sheffield, sheffield blades, sheffieldblades, alpha, alphatools, sterling, sterlingtools, austsaw, power tool accessories, gold series, premium drill bits, holesaws, quality drill bits, sutton, bordo"
   },
   {
     "id": "thorn",
