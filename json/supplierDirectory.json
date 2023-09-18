@@ -587,17 +587,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/thorn-cover.jpg",
     "rangeUrl": "/search/?text=Thorn",
     "website": "https://www.thornlighting.com.au/en-au",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;img src=&quot;https://i.ibb.co/tmRQf0z/logo.png&quot; alt=&quot;Thorn Lighting logo&quot; /&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Dependable, efficient, high-quality lighting&lt;/h1&gt; &lt;p&gt;Thorn Lighting, a globally trusted supplier of outdoor and indoor luminaires, offers high-quality, efficient lighting solutions. With nearly a century of experience, they provide dependable products that make light work for you. Thorn&#39;s extensive portfolio includes economical LED luminaires, ideal for energy savings and longevity. Experience Thorn Lighting&#39;s innovative illumination.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Thorn&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://www.thornlighting.com.au/en-au&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/6Bwjbht/00108322-9016-4abb-8efc-7fb542ce1f22.jpg,https://i.ibb.co/WkmyVwD/da5c7d8e-b2b7-43ba-88e7-cc9db5d038ce.png,https://i.ibb.co/WG8by8J/323f9a9d-88a5-44bc-a290-257becd34250.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"thorn, thorn lighting, lighting, outdoor, indoor, efficient, LED, energy savings"
   },
   {
     "id": "ventair",
