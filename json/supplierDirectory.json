@@ -507,17 +507,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/robus-cover.jpg",
     "rangeUrl": "/search/?text=Robus",
     "website": "https://robus.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/3YhGzMW/robus.png&quot; alt=&quot;Robus logo&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderHeader&quot; data-effect=&quot;fade&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/YtKqNz9/robus-banner-1.jpg,https://i.ibb.co/fkGzBdT/robus-banner-2.jpg,https://i.ibb.co/pyrt0kZ/robus-banner-3.jpg,https://i.ibb.co/4P5JkTd/robus-banner-4.jpg,https://i.ibb.co/g96Qdz0/robus-banner-5.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Illuminate your space with Robus&lt;/h1&gt; &lt;p&gt;Robus is a trusted authority in lighting solutions, offering innovative LED products for various applications. Their extensive line ranges from energy-efficient indoor lights to robust outdoor fixtures, all designed with cutting-edge technology. Robus LED lighting integrates functionality with aesthetics, making them a top choice for lighting needs. Illuminate your spaces with Robus today.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Robus&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://robus.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/8zRTW4d/robus-slider-1.jpg,https://i.ibb.co/RHD8xbM/robus-slider-2.jpg,https://i.ibb.co/VQPhHgb/robus-slider-3.jpg,https://i.ibb.co/s6dWN5Y/robus-slider-4.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split video&quot;&gt; &lt;div&gt; &lt;h2&gt;Who Are ROBUS?&lt;/h2&gt; &lt;p&gt;An Irish owned company, ROBUS LED Group has a global presence and a reputation worldwide for first class customer service and products.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;video-container&quot;&gt; &lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/39Ah_SR8rfk&quot; title=&quot;ROBUS | Own The Story&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"robus, lighting, lighting solutions, LED, energy-efficient, indoor, outdoor, technology"
   },
   {
     "id": "sal",
