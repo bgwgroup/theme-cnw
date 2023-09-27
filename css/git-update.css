@@ -1,5 +1,5 @@
 @charset "UTF-8";
 
-html,body{
-  border: solid 10px peru;
+body{
+  opacity: .3 !important;
 }
